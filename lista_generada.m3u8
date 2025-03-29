@@ -1,0 +1,1033 @@
+#EXTM3U
+#EXTINF:-1,Canal 1
+http://tr.live.clarovtrcdn.vtrplay.com/chvhdhevcchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 2
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/chvhdhevcchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 3
+http://tr.live.clarovtrcdn.vtrplay.com/realityc13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 4
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/realityc13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 5
+http://tr.live.clarovtrcdn.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 6
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 7
+http://tr.live.clarovtrcdn.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 8
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 9
+http://tr.live.clarovtrcdn.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 10
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 11
+http://tr.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 12
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 13
+http://tr.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 14
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 15
+http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 16
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 17
+http://tr.live.clarovtrcdn.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 18
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 19
+http://tr.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 20
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 21
+http://tr.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 22
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 23
+http://tr.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 24
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 25
+http://tr.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 26
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 27
+http://tr.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 28
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 29
+http://tr.live.clarovtrcdn.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 30
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 31
+http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 32
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 33
+http://tr.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 34
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 35
+http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 36
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 37
+http://tr.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 38
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 39
+http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 40
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 41
+http://tr.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 42
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 43
+http://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 44
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 45
+http://tr.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 46
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 47
+http://tr.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 48
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 49
+http://tr.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 50
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 51
+http://tr.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 52
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 53
+http://tr.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 54
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 55
+http://tr.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 56
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 57
+http://tr.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 58
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 59
+http://tr.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 60
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 61
+http://tr.live.clarovtrcdn.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 62
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 63
+http://tr.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 64
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 65
+http://tr.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 66
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 67
+http://tr.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 68
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 69
+http://tr.live.clarovtrcdn.vtrplay.com/mtvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 70
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/mtvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 71
+http://tr.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 72
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 73
+http://tr.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 74
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 75
+http://tr.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 76
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 77
+http://tr.live.clarovtrcdn.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 78
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 79
+http://tr.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 80
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 81
+http://tr.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 82
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 83
+http://tr.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 84
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 85
+http://tr.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 86
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 87
+http://tr.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 88
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 89
+http://tr.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 90
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 91
+http://tr.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 92
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 93
+http://tr.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 94
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 95
+http://tr.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 96
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 97
+http://tr.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 98
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 99
+http://tr.live.clarovtrcdn.vtrplay.com/comedycentralhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 100
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/comedycentralhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 101
+http://tr.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 102
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 103
+http://tr.live.clarovtrcdn.vtrplay.com/goldenplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 104
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/goldenplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 105
+http://tr.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 106
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 107
+http://tr.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 108
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 109
+http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 110
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 111
+http://tr.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 112
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 113
+http://tr.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 114
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 115
+http://tr.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 116
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 117
+http://tr.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 118
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 119
+http://tr.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 120
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 121
+http://tr.live.clarovtrcdn.vtrplay.com/paramounthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 122
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/paramounthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 123
+http://tr.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 124
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 125
+http://tr.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 126
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 127
+http://tr.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 128
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 129
+http://tr.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 130
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 131
+http://tr.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 132
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 133
+http://tr.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 134
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 135
+http://tr.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 136
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 137
+http://tr.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 138
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 139
+http://tr.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 140
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 141
+http://tr.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 142
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 143
+http://tr.live.clarovtrcdn.vtrplay.com/telefehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 144
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/telefehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 145
+http://tr.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 146
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 147
+http://tr.live.clarovtrcdn.vtrplay.com/canaldelasestrellashdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 148
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/canaldelasestrellashdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 149
+http://tr.live.clarovtrcdn.vtrplay.com/tvestarhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 150
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tvestarhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 151
+http://tr.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 152
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 153
+http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 154
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 155
+http://tr.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 156
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 157
+http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 158
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 159
+http://tr.live.clarovtrcdn.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 160
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 161
+http://tr.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 162
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 163
+http://tr.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 164
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 165
+http://tr.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 166
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 167
+http://tr.live.clarovtrcdn.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 168
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 169
+http://tr.live.clarovtrcdn.vtrplay.com/goltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 170
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/goltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 171
+http://tr.live.clarovtrcdn.vtrplay.com/tycsportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 172
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tycsportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 173
+http://tr.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 174
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 175
+http://tr.live.clarovtrcdn.vtrplay.com/ViaXESportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 176
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ViaXESportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 177
+http://tr.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 178
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 179
+http://tr.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 180
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 181
+http://tr.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 182
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 183
+http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 184
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 185
+http://tr.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 186
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 187
+http://tr.live.clarovtrcdn.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 188
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 189
+http://tr.live.clarovtrcdn.vtrplay.com/tarapacatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 190
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/tarapacatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 191
+http://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 192
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 193
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 194
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/disneyjrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 195
+http://tr.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 196
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 197
+http://tr.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 198
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 199
+http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 200
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 201
+http://tr.live.clarovtrcdn.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 202
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 203
+http://tr.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 204
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 205
+http://tr.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 206
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 207
+http://tr.live.clarovtrcdn.vtrplay.com/tvniquiqchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 208
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tvniquiqchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 209
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 210
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 211
+http://tr.live.clarovtrcdn.vtrplay.com/chvhdhevcchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 212
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/chvhdhevcchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 213
+http://tr.live.clarovtrcdn.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 214
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 215
+http://tr.live.clarovtrcdn.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 216
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 217
+http://tr.live.clarovtrcdn.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 218
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 219
+http://tr.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 220
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 221
+http://tr.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 222
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 223
+http://tr.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 224
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 225
+http://tr.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 226
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 227
+http://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 228
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 229
+http://tr.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 230
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 231
+http://tr.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 232
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 233
+http://tr.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 234
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 235
+http://tr.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 236
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 237
+http://tr.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 238
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 239
+http://tr.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 240
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 241
+http://tr.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 242
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 243
+http://tr.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 244
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 245
+http://tr.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 246
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 247
+http://tr.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 248
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 249
+http://tr.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 250
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 251
+http://tr.live.clarovtrcdn.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 252
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 253
+http://tr.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 254
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 255
+http://tr.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 256
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 257
+http://tr.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 258
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 259
+http://tr.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 260
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 261
+http://tr.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 262
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 263
+http://tr.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 264
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 265
+http://tr.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 266
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 267
+http://tr.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 268
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 269
+http://tr.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 270
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 271
+http://tr.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 272
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 273
+http://tr.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 274
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 275
+http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 276
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 277
+http://tr.live.clarovtrcdn.vtrplay.com/paramounthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 278
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/paramounthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 279
+http://tr.live.clarovtrcdn.vtrplay.com/cctv4chinasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 280
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cctv4chinasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 281
+http://tr.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 282
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 283
+http://tr.live.clarovtrcdn.vtrplay.com/mtvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 284
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/mtvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 285
+http://tr.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 286
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 287
+http://tr.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 288
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 289
+http://tr.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 290
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 291
+http://tr.live.clarovtrcdn.vtrplay.com/comedycentralhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 292
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/comedycentralhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 293
+http://tr.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 294
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 295
+http://tr.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 296
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 297
+http://tr.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 298
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 299
+http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 300
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 301
+http://tr.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 302
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 303
+http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 304
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 305
+http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 306
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 307
+http://tr.live.clarovtrcdn.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 308
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 309
+http://tr.live.clarovtrcdn.vtrplay.com/cnnespasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 310
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cnnespasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 311
+http://tr.live.clarovtrcdn.vtrplay.com/ewtnsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 312
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/ewtnsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 313
+http://tr.live.clarovtrcdn.vtrplay.com/tnesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 314
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tnesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 315
+http://tr.live.clarovtrcdn.vtrplay.com/senadotvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 316
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/senadotvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 317
+http://tr.live.clarovtrcdn.vtrplay.com/diputadossdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 318
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/diputadossdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 319
+http://tr.live.clarovtrcdn.vtrplay.com/tvperusdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 320
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tvperusdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 321
+http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 322
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 323
+http://tr.live.clarovtrcdn.vtrplay.com/iquiquetvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 324
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/iquiquetvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 325
+http://tr.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 326
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 327
+http://tr.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 328
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 329
+http://tr.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 330
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 331
+http://tr.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 332
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 333
+http://tr.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 334
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 335
+http://tr.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 336
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 337
+http://tr.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 338
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 339
+http://tr.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 340
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 341
+http://tr.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 342
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 343
+http://tr.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 344
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 345
+http://tr.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 346
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 347
+http://tr.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 348
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 349
+http://tr.live.clarovtrcdn.vtrplay.com/goltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 350
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/goltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 351
+http://tr.live.clarovtrcdn.vtrplay.com/tycsportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 352
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tycsportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 353
+http://tr.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 354
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 355
+http://tr.live.clarovtrcdn.vtrplay.com/disccivilsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 356
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/disccivilsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 357
+http://tr.live.clarovtrcdn.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 358
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 359
+http://tr.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 360
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 361
+http://tr.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 362
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 363
+http://tr.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 364
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 365
+http://tr.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 366
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 367
+http://tr.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 368
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 369
+http://tr.live.clarovtrcdn.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 370
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 371
+http://tr.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 372
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 373
+http://tr.live.clarovtrcdn.vtrplay.com/tooncastsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 374
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tooncastsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 375
+http://tr.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 376
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 377
+http://tr.live.clarovtrcdn.vtrplay.com/htvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 378
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/htvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 379
+http://tr.live.clarovtrcdn.vtrplay.com/cnnintsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 380
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cnnintsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 381
+http://tr.live.clarovtrcdn.vtrplay.com/dwsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 382
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/dwsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 383
+http://tr.live.clarovtrcdn.vtrplay.com/tv5francesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 384
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tv5francesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 385
+http://tr.live.clarovtrcdn.vtrplay.com/raisdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 386
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/raisdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 387
+http://tr.live.clarovtrcdn.vtrplay.com/canaldelasestrellashdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 388
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/canaldelasestrellashdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 389
+http://tr.live.clarovtrcdn.vtrplay.com/foxnewssdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 390
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/foxnewssdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 391
+http://tr.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 392
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 393
+http://tr.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 394
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 395
+http://tr.live.clarovtrcdn.vtrplay.com/goldenedgesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 396
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/goldenedgesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 397
+http://tr.live.clarovtrcdn.vtrplay.com/playpremchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 398
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/playpremchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 399
+http://tr.live.clarovtrcdn.vtrplay.com/romanticaanglochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 400
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/romanticaanglochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 401
+http://tr.live.clarovtrcdn.vtrplay.com/popchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 402
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/popchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 403
+http://tr.live.clarovtrcdn.vtrplay.com/rockchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 404
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/rockchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 405
+http://tr.live.clarovtrcdn.vtrplay.com/80schi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 406
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/80schi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 407
+http://tr.live.clarovtrcdn.vtrplay.com/oldieschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 408
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/oldieschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 409
+http://tr.live.clarovtrcdn.vtrplay.com/romanticalatchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 410
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/romanticalatchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 411
+http://tr.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 412
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 413
+http://tr.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 414
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 415
+http://tr.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 416
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 417
+http://tr.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 418
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 419
+http://tr.live.clarovtrcdn.vtrplay.com/fistatropchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 420
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/fistatropchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 421
+http://tr.live.clarovtrcdn.vtrplay.com/danceelectchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 422
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/danceelectchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 423
+http://tr.live.clarovtrcdn.vtrplay.com/alternativachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 424
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/alternativachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 425
+http://tr.live.clarovtrcdn.vtrplay.com/loungechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 426
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/loungechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 427
+http://tr.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 428
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 429
+http://tr.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 430
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 431
+http://tr.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 432
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 433
+http://tr.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 434
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 435
+http://tr.live.clarovtrcdn.vtrplay.com/operachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 436
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/operachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 437
+http://tr.live.clarovtrcdn.vtrplay.com/pianochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 438
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/pianochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 439
+http://tr.live.clarovtrcdn.vtrplay.com/jazzchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 440
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/jazzchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 441
+http://tr.live.clarovtrcdn.vtrplay.com/newagechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 442
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/newagechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 443
+http://tr.live.clarovtrcdn.vtrplay.com/chilenacontemchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 444
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/chilenacontemchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 445
+http://tr.live.clarovtrcdn.vtrplay.com/raggeatonchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 446
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/raggeatonchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 447
+http://tr.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 448
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 449
+http://tr.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 450
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 451
+http://tr.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 452
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 453
+http://tr.live.clarovtrcdn.vtrplay.com/radiobeethovenchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 454
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radiobeethovenchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 455
+http://tr.live.clarovtrcdn.vtrplay.com/40principaleschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 456
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/40principaleschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 457
+http://tr.live.clarovtrcdn.vtrplay.com/imaginachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 458
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/imaginachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 459
+http://tr.live.clarovtrcdn.vtrplay.com/oasischi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 460
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/oasischi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 461
+http://tr.live.clarovtrcdn.vtrplay.com/candelachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 462
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/candelachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 463
+http://tr.live.clarovtrcdn.vtrplay.com/fmdoschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 464
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/fmdoschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 465
+http://tr.live.clarovtrcdn.vtrplay.com/playfmchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 466
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/playfmchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 467
+http://tr.live.clarovtrcdn.vtrplay.com/futurochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 468
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/futurochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 469
+http://tr.live.clarovtrcdn.vtrplay.com/conciertochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 470
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/conciertochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 471
+http://tr.live.clarovtrcdn.vtrplay.com/radioactivachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 472
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radioactivachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 473
+http://tr.live.clarovtrcdn.vtrplay.com/rocknpopchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 474
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/rocknpopchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 475
+http://tr.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 476
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 477
+http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 478
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 479
+http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 480
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 481
+http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 482
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 483
+http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 484
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 485
+http://tr.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 486
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 487
+http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 488
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 489
+http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 490
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 491
+http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 492
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 493
+http://tr.live.clarovtrcdn.vtrplay.com/radioromanticachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 494
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioromanticachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 495
+http://tr.live.clarovtrcdn.vtrplay.com/radiodunachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 496
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiodunachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 497
+http://tr.live.clarovtrcdn.vtrplay.com/tele13radiochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 498
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tele13radiochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 499
+http://tr.live.clarovtrcdn.vtrplay.com/radiosonarchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 500
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/radiosonarchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 501
+http://tr.live.clarovtrcdn.vtrplay.com/radioadnchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 502
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/radioadnchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 503
+http://tr.live.clarovtrcdn.vtrplay.com/radioiniciachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 504
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/radioiniciachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1,Canal 505
+http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 506
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 507
+http://tr.live.clarovtrcdn.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 508
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 509
+http://tr.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 510
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 511
+http://tr.live.clarovtrcdn.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 512
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 513
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 514
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 515
+http://tr.live.clarovtrcdn.vtrplay.com/infovtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1,Canal 516
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/infovtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
