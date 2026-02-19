@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0, Retro Plus TV #EXTVLCOPT:network-caching=1000
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Retro Plus TV Señal 2 #EXTVLCOPT:network-caching=1000
+#EXTINF:0, Retro Plus TV SeÃ±al 2 #EXTVLCOPT:network-caching=1000
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Retro Plus TV Señal 3 #EXTVLCOPT:network-caching=1000
+#EXTINF:0, Retro Plus TV SeÃ±al 3 #EXTVLCOPT:network-caching=1000
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, VClassicTV #EXTVLCOPT:network-caching=1000
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
@@ -83,7 +83,7 @@ https://vdo.bitsur.cl:3029/live/hdradiolive.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8176/8176/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Chile Informa #EXTVLCOPT:network-caching=1000
 http://45.225.95.154:8081/mcg/chileinforma/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Preludio TV Señal 2 #EXTVLCOPT:network-caching=1000
+#EXTINF:0, Preludio TV SeÃ±al 2 #EXTVLCOPT:network-caching=1000
 https://tv.arkeo.cl:1936/preludio2/preludio2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Omega Radio #EXTVLCOPT:network-caching=1000
 https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8?PlaylistM3UCL
@@ -268,7 +268,7 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTINF:0, Corcubio TV | CL
 #EXTVLCOPT:network-caching=1000
 http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Señal Mediabanco | CL
+#EXTINF:0, SeÃ±al Mediabanco | CL
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Caracola TV | CL
@@ -367,7 +367,7 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, ThemaTV | CL
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, América TV Chile | CL
+#EXTINF:0, AmÃ©rica TV Chile | CL
 #EXTVLCOPT:network-caching=1000
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
 #EXTINF:0, TV Elqui | CL
@@ -487,16 +487,16 @@ https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 1 | CL
 #EXTVLCOPT:network-caching=1000
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Región Televisión Ñuble | CL
+#EXTINF:0, RegiÃ³n TelevisiÃ³n Ã‘uble | CL
 #EXTVLCOPT:network-caching=1000
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Ñublevision | CL
+#EXTINF:0, Ã‘ublevision | CL
 #EXTVLCOPT:network-caching=1000
 https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Supersonika TV | CL
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, EstaciónTV | CL
+#EXTINF:0, EstaciÃ³nTV | CL
 #EXTVLCOPT:network-caching=1000
 https://tv.arkeo.cl:1936/shqzratbfz/shqzratbfz/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, ClickTv | CL
@@ -508,7 +508,7 @@ https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Concepcion TV | CL
 #EXTVLCOPT:network-caching=1000
 https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal 9 Bío Bí­o TV | CL
+#EXTINF:0, Canal 9 BÃ­o BÃ­Â­o TV | CL
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Pacifico Television | CL
@@ -604,7 +604,7 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTINF:0, ITV Patagonia | CL
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, EvaVisión | CL
+#EXTINF:0, EvaVisiÃ³n | CL
 #EXTVLCOPT:network-caching=1000
 https://stmv4.voxtvhd.com.br/evavision/evavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal Sur Patagonia | CL
@@ -772,7 +772,7 @@ https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:0, Radio Rancagua | CL
 #EXTVLCOPT:network-caching=1000
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Radio Presidente Ibañez | CL
+#EXTINF:0, Radio Presidente IbaÃ±ez | CL
 #EXTVLCOPT:network-caching=1000
 https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:0, Radio Portales | CL
@@ -808,7 +808,7 @@ https://v2.tustreaming.cl:/alingeproducciones/index.m3u8?PlaylistM3UCL
 #EXTINF:0, Radio Favorita | CL
 #EXTVLCOPT:network-caching=1000
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Radio Ñuble | CL
+#EXTINF:0, Radio Ã‘uble | CL
 #EXTVLCOPT:network-caching=1000
 https://tv.telselec.cl:3376/live/nublefmlive.m3u8?PlaylistM3UCL
 #EXTINF:0, Radio Fantasia TV | CL
@@ -850,7 +850,7 @@ https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8?PlaylistM3UCL
 #EXTINF:0, ChocolateFM | CL
 #EXTVLCOPT:network-caching=1000
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Radio La Señal | CL
+#EXTINF:0, Radio La SeÃ±al | CL
 #EXTVLCOPT:network-caching=1000
 https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Radio Ancoa TV | CL
