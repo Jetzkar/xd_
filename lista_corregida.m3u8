@@ -1,1033 +1,825 @@
 #EXTM3U
-#EXTINF:-1,chvhdhevcchi
-http://tr.live.clarovtrcdn.vtrplay.com/chvhdhevcchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,chvhdhevcchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/chvhdhevcchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,realityc13hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/realityc13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,realityc13hdchi
+#EXTINF:-1 tvg-id="zonalatinahdchi" tvg-name="Zona Latina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Zona_Latina_logo.png",Zona Latina HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="realityc13hdchi" tvg-name="13 Realidades HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_13_Chile_logo_2018.svg/512px-Canal_13_Chile_logo_2018.svg.png",13 Realidades HD
 http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/realityc13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,canal13hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,canal13hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,24hhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,24hhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cnnchilehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cnnchilehdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,zonalatinahdchi
-http://tr.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,zonalatinahdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,viaxhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,viaxhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cartoonhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cartoonhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,nickhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,nickhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dreamworkshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dreamworkshdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,ntvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,ntvhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disneyhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disneyhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disckidshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disckidshdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,boomeranghdchi
-http://tr.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,boomeranghdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,nickjrhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,nickjrhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,animalplanethdchi
-http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,animalplanethdchi
+#EXTINF:-1 tvg-id="animalplanethdchi" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png",Animal Planet HD
 http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,lovenaturehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,lovenaturehdchi
+#EXTINF:-1 tvg-id="viaxhdchi" tvg-name="Vía X HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/V%C3%ADa_X_2019.png",Vía X HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="boomeranghdchi" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Boomerang_2015_logo.svg/512px-Boomerang_2015_logo.svg.png",Boomerang HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disneyhdchi" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_Channel_logo_2014.svg/512px-Disney_Channel_logo_2014.svg.png",Disney Channel HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="lovenaturehdchi" tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Love_Nature_logo_2022.svg/512px-Love_Nature_logo_2022.svg.png",Love Nature HD
 http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischdchi
-http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischdchi
+#EXTINF:-1 tvg-id="dischdchi" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Discovery_Channel_2019_logo.svg/512px-Discovery_Channel_2019_logo.svg.png",Discovery Channel HD
 http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disctheaterhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disctheaterhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischdchi
-http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischdchi
+#EXTINF:-1 tvg-id="disckidshdchi" tvg-name="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Discovery_Kids_logo_2021.svg/512px-Discovery_Kids_logo_2021.svg.png",Discovery Kids HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cartoonhdchi" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dreamworkshdchi" tvg-name="DreamWorks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DreamWorks_Channel_logo.svg/512px-DreamWorks_Channel_logo.svg.png",DreamWorks HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dischdchi" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Discovery_Channel_2019_logo.svg/512px-Discovery_Channel_2019_logo.svg.png",Discovery Channel HD
 http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disctheaterhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disctheaterhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,vivehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,vivehdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megaplushdchi
-http://tr.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megaplushdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,13chdchi
-http://tr.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,13chdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,natgeohdchi
-http://tr.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,natgeohdchi
+#EXTINF:-1 tvg-id="natgeohdchi" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_logo.svg/512px-National_Geographic_logo.svg.png",National Geographic HD
 http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,biobiohdchi_claro
-http://tr.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,biobiohdchi_claro
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discscihdchi
-http://tr.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discscihdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,artvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,artvhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,trutvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,trutvhdchi
+#EXTINF:-1 tvg-id="disctheaterhdchi" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Discovery_Theater_logo.png",Discovery Theater HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="13chdchi" tvg-name="13C HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/13C_logo.svg/512px-13C_logo.svg.png",13C HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megaplushdchi" tvg-name="Mega Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Mega_Plus_logo.png",Mega Plus HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="vivehdchi" tvg-name="Vive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Vive_TV_Chile_logo.png",Vive HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ntvhdchi" tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NTV_Chile_logo.svg/512px-NTV_Chile_logo.svg.png",NTV HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disctheaterhdchi" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Discovery_Theater_logo.png",Discovery Theater HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="trutvhdchi" tvg-name="TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TruTV_Logo_2020.svg/512px-TruTV_Logo_2020.svg.png",TruTV HD
 http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disctlchdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disctlchdchi
+#EXTINF:-1 tvg-id="discscihdchi" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Discovery_Science_logo_2017.svg/512px-Discovery_Science_logo_2017.svg.png",Discovery Science HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="artvhdchi" tvg-name="ARTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Artv_logo.png",ARTV HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disctlchdchi" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TLC_logo_2014.svg/512px-TLC_logo_2014.svg.png",TLC HD
 http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discworldhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discworldhdchi
+#EXTINF:-1 tvg-id="biobiohdchi_claro" tvg-name="Bío Bío TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BioBioChile_logo.svg/512px-BioBioChile_logo.svg.png",Bío Bío TV HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="animalplanethdchi" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png",Animal Planet HD
+http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dischhhdchi" tvg-name="Discovery Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_Home_%26_Health_logo.svg/512px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="maschichdchi" tvg-name="Más Chic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Mas_Chic_logo.png",Más Chic HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foodnetworkhdchi" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Food_Network_logo_2016.svg/512px-Food_Network_logo_2016.svg.png",Food Network HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="viaxhdchi" tvg-name="Vía X HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/V%C3%ADa_X_2019.png",Vía X HD
+http://tr.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="boomeranghdchi" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Boomerang_2015_logo.svg/512px-Boomerang_2015_logo.svg.png",Boomerang HD
+http://tr.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cartoonhdchi" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
+http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="eentertainmenthdchi" tvg-name="E! Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/E%21_logo.svg/512px-E%21_logo.svg.png",E! Entertainment HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disckidshdchi" tvg-name="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Discovery_Kids_logo_2021.svg/512px-Discovery_Kids_logo_2021.svg.png",Discovery Kids HD
+http://tr.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discworldhdchi" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Discovery_World_logo.png",Discovery World HD
 http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischhhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischhhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,eentertainmenthdchi
-http://tr.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,eentertainmenthdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,fxhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,fxhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,mtvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/mtvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,mtvhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/mtvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foodnetworkhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foodnetworkhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,maschichdchi
-http://tr.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,maschichdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,elgourmethdchi
-http://tr.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,elgourmethdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,docuhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,docuhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,etctvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,etctvhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,senpaitvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,senpaitvhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megaficcionhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megaficcionhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,rechdchi
-http://tr.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,rechdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cinecanalhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cinecanalhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,warnerhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,warnerhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,starchannelhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,starchannelhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,filmandartshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,filmandartshdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discidchi
-http://tr.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discidchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tntserieshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tntserieshdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,comedycentralhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/comedycentralhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,comedycentralhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/comedycentralhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tbshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tbshdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,goldenplushdchi
-http://tr.live.clarovtrcdn.vtrplay.com/goldenplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,goldenplushdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/goldenplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,a3serieshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,a3serieshdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,a3cinehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,a3cinehdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,beneficiosvtrhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,beneficiosvtrhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tnthdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tnthdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cinemaxhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cinemaxhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,syfyhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,syfyhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,amchdchi
-http://tr.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,amchdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,spacehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,spacehdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,paramounthdchi
-http://tr.live.clarovtrcdn.vtrplay.com/paramounthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,paramounthdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/paramounthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,universaltvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,universaltvhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,studiouniversalhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,studiouniversalhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbohdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbohdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbofamilyhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbofamilyhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbomundihdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbomundihdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbo2hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbo2hdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbosignaturehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbosignaturehdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hboplushdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hboplushdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hboxtremehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hboxtremehdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbopophdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbopophdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,telefehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/telefehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,telefehdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/telefehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,telemundohdchi_claro
-http://tr.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,telemundohdchi_claro
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,canaldelasestrellashdchi
-http://tr.live.clarovtrcdn.vtrplay.com/canaldelasestrellashdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,canaldelasestrellashdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/canaldelasestrellashdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvestarhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tvestarhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvestarhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tvestarhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,antena3hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,antena3hdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,bbchdchi
-http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,bbchdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,antena3hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,antena3hdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,bbchdchi
-http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,bbchdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espnplushdchi
-http://tr.live.clarovtrcdn.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espnplushdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espn2hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espn2hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espn3hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espn3hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espnhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espnhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,golfhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,golfhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,goltvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/goltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,goltvhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/goltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tycsportshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tycsportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tycsportshdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tycsportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,teletrakhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,teletrakhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,ViaXESportshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/ViaXESportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,ViaXESportshdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ViaXESportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tntsports3hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tntsports3hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxsportschilehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxsportschilehdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxsports3hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxsports3hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,beneficiosvtrhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,beneficiosvtrhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,lovenaturehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,lovenaturehdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvplushdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvplushdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tarapacatvsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tarapacatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tarapacatvsdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/tarapacatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,telecanalsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,telecanalsdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,disneyjrsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disneyjrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,disneyjrsdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/disneyjrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,boomeranghdchi
-http://tr.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,boomeranghdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disckidshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disckidshdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cartoonhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cartoonhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,nickhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,nickhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disneyhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disneyhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,laredhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,laredhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvniquiqchi
-http://tr.live.clarovtrcdn.vtrplay.com/tvniquiqchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tvniquiqchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tvniquiqchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,megahdchi
-http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megahdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,chvhdhevcchi
-http://tr.live.clarovtrcdn.vtrplay.com/chvhdhevcchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,chvhdhevcchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/chvhdhevcchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,canal13hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,canal13hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cnnchilehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cnnchilehdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,24hhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,24hhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/24hhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxsportschilehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxsportschilehdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espnhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espnhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tntsports3hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tntsports3hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espn2hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espn2hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,vivehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,vivehdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tntserieshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tntserieshdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,natgeohdchi
-http://tr.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,natgeohdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disctlchdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disctlchdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischhhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischhhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,senpaitvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,senpaitvhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,elgourmethdchi
-http://tr.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,elgourmethdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,eentertainmenthdchi
-http://tr.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,eentertainmenthdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cinecanalhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cinecanalhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,warnerhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,warnerhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megaficcionhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megaficcionhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discidchi
-http://tr.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discidchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tcmsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tcmsdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,a3serieshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,a3serieshdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,filmandartshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,filmandartshdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megaplushdchi
-http://tr.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megaplushdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,spacehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,spacehdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbohdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbohdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dreamworkshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dreamworkshdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cinemaxhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cinemaxhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,amchdchi
-http://tr.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,amchdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,syfyhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,syfyhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,studiouniversalhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,studiouniversalhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,telemundohdchi_claro
-http://tr.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,telemundohdchi_claro
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,bbchdchi
-http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,bbchdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,paramounthdchi
-http://tr.live.clarovtrcdn.vtrplay.com/paramounthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,paramounthdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/paramounthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cctv4chinasdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cctv4chinasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,cctv4chinasdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cctv4chinasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,13chdchi
-http://tr.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,13chdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,mtvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/mtvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,mtvhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/mtvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,viaxhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,viaxhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,zonalatinahdchi
+#EXTINF:-1 tvg-id="zonalatinahdchi" tvg-name="Zona Latina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Zona_Latina_logo.png",Zona Latina HD
 http://tr.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,zonalatinahdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tnthdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tnthdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,comedycentralhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/comedycentralhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,comedycentralhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/comedycentralhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,starchannelhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,starchannelhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,universaltvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,universaltvhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,azcinemasdchi
-http://tr.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,azcinemasdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,animalplanethdchi
-http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,animalplanethdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,azcinemasdchi
-http://tr.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,azcinemasdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,animalplanethdchi
-http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,animalplanethdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischdchi
-http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,dischdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,nickjrhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,nickjrhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,cnnespasdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cnnespasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,cnnespasdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cnnespasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,ewtnsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/ewtnsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,ewtnsdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/ewtnsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tnesdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tnesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tnesdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tnesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,senadotvsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/senadotvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,senadotvsdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/senadotvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,diputadossdchi
-http://tr.live.clarovtrcdn.vtrplay.com/diputadossdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,diputadossdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/diputadossdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tvperusdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tvperusdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tvperusdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tvperusdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,beneficiosvtrhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,beneficiosvtrhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,iquiquetvsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/iquiquetvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,iquiquetvsdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/iquiquetvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hbofamilyhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbofamilyhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbomundihdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbomundihdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbo2hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbo2hdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbosignaturehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbosignaturehdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hboplushdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hboplushdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hboxtremehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hboxtremehdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbopophdchi
-http://tr.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,hbopophdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,maschichdchi
-http://tr.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,maschichdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,ntvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,ntvhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxsports3hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxsports3hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,teletrakhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,teletrakhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espn3hdchi
-http://tr.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,espn3hdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,goltvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/goltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,goltvhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/goltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tycsportshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tycsportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tycsportshdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tycsportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discscihdchi
-http://tr.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,discscihdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,disccivilsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/disccivilsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,disccivilsdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/disccivilsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,discoveryturbosdchi
-http://tr.live.clarovtrcdn.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,discoveryturbosdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,trutvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,trutvhdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,fxhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,fxhdchi
+#EXTINF:-1 tvg-id="realityc13hdchi" tvg-name="13 Realidades HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_13_Chile_logo_2018.svg/512px-Canal_13_Chile_logo_2018.svg.png",13 Realidades HD
+http://tr.live.clarovtrcdn.vtrplay.com/realityc13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="natgeohdchi" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_logo.svg/512px-National_Geographic_logo.svg.png",National Geographic HD
+http://tr.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="fxhdchi" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FX_logo.svg/512px-FX_logo.svg.png",FX HD
 http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tbshdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tbshdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,rechdchi
-http://tr.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,rechdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,artvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,artvhdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,babytvsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,babytvsdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,etctvhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,etctvhdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tooncastsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tooncastsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tooncastsdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tooncastsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,foodnetworkhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foodnetworkhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,htvsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/htvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,htvsdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/htvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,cnnintsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/cnnintsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,cnnintsdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cnnintsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,dwsdchi
-http://tr.live.clarovtrcdn.vtrplay.com/dwsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,dwsdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/dwsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tv5francesdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tv5francesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tv5francesdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tv5francesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,raisdchi
-http://tr.live.clarovtrcdn.vtrplay.com/raisdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,raisdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/raisdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,canaldelasestrellashdchi
-http://tr.live.clarovtrcdn.vtrplay.com/canaldelasestrellashdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,canaldelasestrellashdchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/canaldelasestrellashdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,foxnewssdchi
-http://tr.live.clarovtrcdn.vtrplay.com/foxnewssdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,foxnewssdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/foxnewssdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,a3cinehdchi
-http://tr.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,a3cinehdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,biobiohdchi_claro
+#EXTINF:-1 tvg-id="dischdchi" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Discovery_Channel_2019_logo.svg/512px-Discovery_Channel_2019_logo.svg.png",Discovery Channel HD
+http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megaplushdchi" tvg-name="Mega Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Mega_Plus_logo.png",Mega Plus HD
+http://tr.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ntvhdchi" tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NTV_Chile_logo.svg/512px-NTV_Chile_logo.svg.png",NTV HD
+http://tr.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disneyhdchi" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_Channel_logo_2014.svg/512px-Disney_Channel_logo_2014.svg.png",Disney Channel HD
+http://tr.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="13chdchi" tvg-name="13C HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/13C_logo.svg/512px-13C_logo.svg.png",13C HD
+http://tr.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="vivehdchi" tvg-name="Vive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Vive_TV_Chile_logo.png",Vive HD
+http://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dischdchi" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Discovery_Channel_2019_logo.svg/512px-Discovery_Channel_2019_logo.svg.png",Discovery Channel HD
+http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dreamworkshdchi" tvg-name="DreamWorks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DreamWorks_Channel_logo.svg/512px-DreamWorks_Channel_logo.svg.png",DreamWorks HD
+http://tr.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="biobiohdchi_claro" tvg-name="Bío Bío TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BioBioChile_logo.svg/512px-BioBioChile_logo.svg.png",Bío Bío TV HD
 http://tr.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,biobiohdchi_claro
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,goldenedgesdchi
-http://tr.live.clarovtrcdn.vtrplay.com/goldenedgesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,goldenedgesdchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/goldenedgesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,playpremchi
-http://tr.live.clarovtrcdn.vtrplay.com/playpremchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,playpremchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/playpremchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,romanticaanglochi
-http://tr.live.clarovtrcdn.vtrplay.com/romanticaanglochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,romanticaanglochi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/romanticaanglochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,popchi
-http://tr.live.clarovtrcdn.vtrplay.com/popchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,popchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/popchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,rockchi
-http://tr.live.clarovtrcdn.vtrplay.com/rockchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,rockchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/rockchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,80schi
-http://tr.live.clarovtrcdn.vtrplay.com/80schi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,80schi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/80schi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,oldieschi
-http://tr.live.clarovtrcdn.vtrplay.com/oldieschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,oldieschi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/oldieschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,romanticalatchi
-http://tr.live.clarovtrcdn.vtrplay.com/romanticalatchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,romanticalatchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/romanticalatchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hotlatinchi
-http://tr.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hotlatinchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hotlatinchi
-http://tr.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hotlatinchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hotlatinchi
-http://tr.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hotlatinchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hotlatinchi
-http://tr.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,hotlatinchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hotlatinchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,fistatropchi
-http://tr.live.clarovtrcdn.vtrplay.com/fistatropchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,fistatropchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/fistatropchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,danceelectchi
-http://tr.live.clarovtrcdn.vtrplay.com/danceelectchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,danceelectchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/danceelectchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,alternativachi
-http://tr.live.clarovtrcdn.vtrplay.com/alternativachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,alternativachi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/alternativachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,loungechi
-http://tr.live.clarovtrcdn.vtrplay.com/loungechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,loungechi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/loungechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,clasicachi
-http://tr.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,clasicachi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,clasicachi
-http://tr.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,clasicachi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,clasicachi
-http://tr.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,clasicachi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,clasicachi
-http://tr.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,clasicachi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/clasicachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,operachi
-http://tr.live.clarovtrcdn.vtrplay.com/operachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,operachi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/operachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,pianochi
-http://tr.live.clarovtrcdn.vtrplay.com/pianochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,pianochi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/pianochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,jazzchi
-http://tr.live.clarovtrcdn.vtrplay.com/jazzchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,jazzchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/jazzchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,newagechi
-http://tr.live.clarovtrcdn.vtrplay.com/newagechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,newagechi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/newagechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,chilenacontemchi
-http://tr.live.clarovtrcdn.vtrplay.com/chilenacontemchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,chilenacontemchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/chilenacontemchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,raggeatonchi
-http://tr.live.clarovtrcdn.vtrplay.com/raggeatonchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,raggeatonchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/raggeatonchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,teenschi
-http://tr.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,teenschi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,teenschi
-http://tr.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,teenschi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,teenschi
-http://tr.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,teenschi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teenschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiobeethovenchi
-http://tr.live.clarovtrcdn.vtrplay.com/radiobeethovenchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiobeethovenchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radiobeethovenchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,40principaleschi
-http://tr.live.clarovtrcdn.vtrplay.com/40principaleschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,40principaleschi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/40principaleschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,imaginachi
-http://tr.live.clarovtrcdn.vtrplay.com/imaginachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,imaginachi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/imaginachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,oasischi
-http://tr.live.clarovtrcdn.vtrplay.com/oasischi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,oasischi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/oasischi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,candelachi
-http://tr.live.clarovtrcdn.vtrplay.com/candelachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,candelachi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/candelachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,fmdoschi
-http://tr.live.clarovtrcdn.vtrplay.com/fmdoschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,fmdoschi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/fmdoschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,playfmchi
-http://tr.live.clarovtrcdn.vtrplay.com/playfmchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,playfmchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/playfmchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,futurochi
-http://tr.live.clarovtrcdn.vtrplay.com/futurochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,futurochi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/futurochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,conciertochi
-http://tr.live.clarovtrcdn.vtrplay.com/conciertochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,conciertochi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/conciertochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioactivachi
-http://tr.live.clarovtrcdn.vtrplay.com/radioactivachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioactivachi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radioactivachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,rocknpopchi
-http://tr.live.clarovtrcdn.vtrplay.com/rocknpopchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,rocknpopchi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/rocknpopchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioinfinitachi
-http://tr.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioinfinitachi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioinfinitachi
-http://tr.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioinfinitachi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://tr.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiotiempochi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiotiempochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioromanticachi
-http://tr.live.clarovtrcdn.vtrplay.com/radioromanticachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioromanticachi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioromanticachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiodunachi
-http://tr.live.clarovtrcdn.vtrplay.com/radiodunachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiodunachi
-http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiodunachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tele13radiochi
-http://tr.live.clarovtrcdn.vtrplay.com/tele13radiochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,tele13radiochi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tele13radiochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiosonarchi
-http://tr.live.clarovtrcdn.vtrplay.com/radiosonarchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radiosonarchi
-http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/radiosonarchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioadnchi
-http://tr.live.clarovtrcdn.vtrplay.com/radioadnchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioadnchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/radioadnchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioiniciachi
-http://tr.live.clarovtrcdn.vtrplay.com/radioiniciachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,radioiniciachi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/radioiniciachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-#EXTINF:-1,beneficiosvtrhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,beneficiosvtrhdchi
+#EXTINF:-1 tvg-id="lovenaturehdchi" tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Love_Nature_logo_2022.svg/512px-Love_Nature_logo_2022.svg.png",Love Nature HD
+http://tr.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disctheaterhdchi" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Discovery_Theater_logo.png",Discovery Theater HD
+http://tr.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="elgourmethdchi" tvg-name="El Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/El_Gourmet_logo.png",El Gourmet HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disctheaterhdchi" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Discovery_Theater_logo.png",Discovery Theater HD
+http://tr.live.clarovtrcdn.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="docuhdchi" tvg-name="Docu HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Discovery_Channel_2019_logo.svg/512px-Discovery_Channel_2019_logo.svg.png",Docu HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="etctvhdchi" tvg-name="ETC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Etc_TV_logo.svg/512px-Etc_TV_logo.svg.png",ETC TV HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="senpaitvhdchi" tvg-name="Senpai TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Senpai_TV_logo.png",Senpai TV HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disctlchdchi" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TLC_logo_2014.svg/512px-TLC_logo_2014.svg.png",TLC HD
+http://tr.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="trutvhdchi" tvg-name="TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TruTV_Logo_2020.svg/512px-TruTV_Logo_2020.svg.png",TruTV HD
+http://tr.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="rechdchi" tvg-name="REC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/REC_TV_logo.svg/512px-REC_TV_logo.svg.png",REC TV HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dischhhdchi" tvg-name="Discovery Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_Home_%26_Health_logo.svg/512px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health HD
+http://tr.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discscihdchi" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Discovery_Science_logo_2017.svg/512px-Discovery_Science_logo_2017.svg.png",Discovery Science HD
+http://tr.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="eentertainmenthdchi" tvg-name="E! Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/E%21_logo.svg/512px-E%21_logo.svg.png",E! Entertainment HD
+http://tr.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="warnerhdchi" tvg-name="Warner TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",Warner TV HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foodnetworkhdchi" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Food_Network_logo_2016.svg/512px-Food_Network_logo_2016.svg.png",Food Network HD
+http://tr.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discidchi" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Investigation_Discovery_logo_2020.svg/512px-Investigation_Discovery_logo_2020.svg.png",Investigation Discovery HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tntserieshdchi" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TNT_Series_logo.svg/512px-TNT_Series_logo.svg.png",TNT Series HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tbshdchi" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TBS_logo_2015.svg/512px-TBS_logo_2015.svg.png",TBS HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="artvhdchi" tvg-name="ARTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Artv_logo.png",ARTV HD
+http://tr.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="filmandartshdchi" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Film_and_Arts_logo.png",Film & Arts HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="starchannelhdchi" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Star_Channel_logo.svg/512px-Star_Channel_logo.svg.png",Star Channel HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="maschichdchi" tvg-name="Más Chic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Mas_Chic_logo.png",Más Chic HD
+http://tr.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="fxhdchi" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FX_logo.svg/512px-FX_logo.svg.png",FX HD
+http://tr.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="a3serieshdchi" tvg-name="Atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Atreseries_logo.svg/512px-Atreseries_logo.svg.png",Atreseries HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discworldhdchi" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Discovery_World_logo.png",Discovery World HD
+http://tr.live.clarovtrcdn.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="a3cinehdchi" tvg-name="Atrescine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Atrescine_Logo.png",Atrescine HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="elgourmethdchi" tvg-name="El Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/El_Gourmet_logo.png",El Gourmet HD
+http://tr.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tnthdchi" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TNT_logo.svg/512px-TNT_logo.svg.png",TNT HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cinemaxhdchi" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cinemax_logo.svg/512px-Cinemax_logo.svg.png",Cinemax HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="syfyhdchi" tvg-name="Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Syfy_2017_logo.svg/512px-Syfy_2017_logo.svg.png",Syfy HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="beneficiosvtrhdchi" tvg-name="Beneficios VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Beneficios VTR HD
 http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvplushdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvplushdchi
-http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,laredhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,laredhdchi
+#EXTINF:-1 tvg-id="docuhdchi" tvg-name="Docu HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Discovery_Channel_2019_logo.svg/512px-Discovery_Channel_2019_logo.svg.png",Docu HD
+http://tr.live.clarovtrcdn.vtrplay.com/docuhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="etctvhdchi" tvg-name="ETC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Etc_TV_logo.svg/512px-Etc_TV_logo.svg.png",ETC TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cinecanalhdchi" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cinecanal_logo.svg/512px-Cinecanal_logo.svg.png",Cinecanal HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="spacehdchi" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Space_logo_2017.svg/512px-Space_logo_2017.svg.png",Space HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="universaltvhdchi" tvg-name="Universal TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Universal_TV_2018_logo.svg/512px-Universal_TV_2018_logo.svg.png",Universal TV HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="studiouniversalhdchi" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Studio_Universal_logo.svg/512px-Studio_Universal_logo.svg.png",Studio Universal HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="senpaitvhdchi" tvg-name="Senpai TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Senpai_TV_logo.png",Senpai TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megaficcionhdchi" tvg-name="Mega Ficción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mega_Ficci%C3%B3n_logo.png",Mega Ficción HD
+http://tr.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbohdchi" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbofamilyhdchi" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HBO_Family_logo.svg/512px-HBO_Family_logo.svg.png",HBO Family HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="rechdchi" tvg-name="REC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/REC_TV_logo.svg/512px-REC_TV_logo.svg.png",REC TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbomundihdchi" tvg-name="HBO Mundi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HBO_Mundi_logo.svg/512px-HBO_Mundi_logo.svg.png",HBO Mundi HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cinecanalhdchi" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cinecanal_logo.svg/512px-Cinecanal_logo.svg.png",Cinecanal HD
+http://tr.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbo2hdchi" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2 HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tbshdchi" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TBS_logo_2015.svg/512px-TBS_logo_2015.svg.png",TBS HD
+http://tr.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tntserieshdchi" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TNT_Series_logo.svg/512px-TNT_Series_logo.svg.png",TNT Series HD
+http://tr.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discidchi" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Investigation_Discovery_logo_2020.svg/512px-Investigation_Discovery_logo_2020.svg.png",Investigation Discovery HD
+http://tr.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="warnerhdchi" tvg-name="Warner TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",Warner TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="starchannelhdchi" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Star_Channel_logo.svg/512px-Star_Channel_logo.svg.png",Star Channel HD
+http://tr.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbosignaturehdchi" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HBO_Signature_logo.svg/512px-HBO_Signature_logo.svg.png",HBO Signature HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="filmandartshdchi" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Film_and_Arts_logo.png",Film & Arts HD
+http://tr.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="amchdchi" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMC_logo.svg/512px-AMC_logo.svg.png",AMC HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="a3serieshdchi" tvg-name="Atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Atreseries_logo.svg/512px-Atreseries_logo.svg.png",Atreseries HD
+http://tr.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hboxtremehdchi" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/HBO_Xtreme_logo.svg/512px-HBO_Xtreme_logo.svg.png",HBO Xtreme HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="a3cinehdchi" tvg-name="Atrescine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Atrescine_Logo.png",Atrescine HD
+http://tr.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="syfyhdchi" tvg-name="Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Syfy_2017_logo.svg/512px-Syfy_2017_logo.svg.png",Syfy HD
+http://tr.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="beneficiosvtrhdchi" tvg-name="Beneficios VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Beneficios VTR HD
+http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="telemundohdchi_claro" tvg-name="Telemundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Telemundo_logo.svg/512px-Telemundo_logo.svg.png",Telemundo HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tvestarhdchi" tvg-name="TVE Star HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Star_TVE_logo.svg/512px-Star_TVE_logo.svg.png",TVE Star HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tvestarhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cinemaxhdchi" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cinemax_logo.svg/512px-Cinemax_logo.svg.png",Cinemax HD
+http://tr.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tnthdchi" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TNT_logo.svg/512px-TNT_logo.svg.png",TNT HD
+http://tr.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="spacehdchi" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Space_logo_2017.svg/512px-Space_logo_2017.svg.png",Space HD
+http://tr.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="antena3hdchi" tvg-name="Antena 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antena_3_logo.svg/512px-Antena_3_logo.svg.png",Antena 3 HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="bbchdchi" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022_%28Alt_Light%29.svg/512px-BBC_News_2022_%28Alt_Light%29.svg.png",BBC News HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="bbchdchi" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022_%28Alt_Light%29.svg/512px-BBC_News_2022_%28Alt_Light%29.svg.png",BBC News HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="amchdchi" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMC_logo.svg/512px-AMC_logo.svg.png",AMC HD
+http://tr.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbopophdchi" tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/HBO_Pop_logo.svg/512px-HBO_Pop_logo.svg.png",HBO Pop HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbohdchi" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="universaltvhdchi" tvg-name="Universal TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Universal_TV_2018_logo.svg/512px-Universal_TV_2018_logo.svg.png",Universal TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espn3hdchi" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ESPN3_logo.svg/512px-ESPN3_logo.svg.png",ESPN 3 HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="golfhdchi" tvg-name="Golf Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Golf_Channel_logo.svg/512px-Golf_Channel_logo.svg.png",Golf Channel HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="antena3hdchi" tvg-name="Antena 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antena_3_logo.svg/512px-Antena_3_logo.svg.png",Antena 3 HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbo2hdchi" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2 HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hboxtremehdchi" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/HBO_Xtreme_logo.svg/512px-HBO_Xtreme_logo.svg.png",HBO Xtreme HD
+http://tr.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="studiouniversalhdchi" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Studio_Universal_logo.svg/512px-Studio_Universal_logo.svg.png",Studio Universal HD
+http://tr.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espnhdchi" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN_logo.svg/512px-ESPN_logo.svg.png",ESPN HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espnplushdchi" tvg-name="ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Extra_logo.svg/512px-ESPN_Extra_logo.svg.png",ESPN Extra HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbofamilyhdchi" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HBO_Family_logo.svg/512px-HBO_Family_logo.svg.png",HBO Family HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbosignaturehdchi" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HBO_Signature_logo.svg/512px-HBO_Signature_logo.svg.png",HBO Signature HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbomundihdchi" tvg-name="HBO Mundi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HBO_Mundi_logo.svg/512px-HBO_Mundi_logo.svg.png",HBO Mundi HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hboplushdchi" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/HBO_Plus_logo.svg/512px-HBO_Plus_logo.svg.png",HBO Plus HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megaficcionhdchi" tvg-name="Mega Ficción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mega_Ficci%C3%B3n_logo.png",Mega Ficción HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hboplushdchi" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/HBO_Plus_logo.svg/512px-HBO_Plus_logo.svg.png",HBO Plus HD
+http://tr.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="teletrakhdchi" tvg-name="Teletrak TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Teletrak_TV_Logo.png",Teletrak TV HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbopophdchi" tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/HBO_Pop_logo.svg/512px-HBO_Pop_logo.svg.png",HBO Pop HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foxsportschilehdchi" tvg-name="TNT Sports Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/TNT_Sports_Chile_logo.png",TNT Sports Chile HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tntsports3hdchi" tvg-name="TNT Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TNT_Sports_3_Chile_logo.png",TNT Sports 3 HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="telemundohdchi_claro" tvg-name="Telemundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Telemundo_logo.svg/512px-Telemundo_logo.svg.png",Telemundo HD
+http://tr.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foxsports3hdchi" tvg-name="Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fox_Sports_3_logo.svg/512px-Fox_Sports_3_logo.svg.png",Fox Sports 3 HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="beneficiosvtrhdchi" tvg-name="Beneficios VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Beneficios VTR HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="lovenaturehdchi" tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Love_Nature_logo_2022.svg/512px-Love_Nature_logo_2022.svg.png",Love Nature HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="antena3hdchi" tvg-name="Antena 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antena_3_logo.svg/512px-Antena_3_logo.svg.png",Antena 3 HD
+http://tr.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tvestarhdchi" tvg-name="TVE Star HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Star_TVE_logo.svg/512px-Star_TVE_logo.svg.png",TVE Star HD
+http://tr.live.clarovtrcdn.vtrplay.com/tvestarhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="antena3hdchi" tvg-name="Antena 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Antena_3_logo.svg/512px-Antena_3_logo.svg.png",Antena 3 HD
+http://tr.live.clarovtrcdn.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espnplushdchi" tvg-name="ESPN Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Extra_logo.svg/512px-ESPN_Extra_logo.svg.png",ESPN Extra HD
+http://tr.live.clarovtrcdn.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="telecanalsdchi" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telecanal_logo.svg/512px-Telecanal_logo.svg.png",Telecanal
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="disckidshdchi" tvg-name="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Discovery_Kids_logo_2021.svg/512px-Discovery_Kids_logo_2021.svg.png",Discovery Kids HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="boomeranghdchi" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Boomerang_2015_logo.svg/512px-Boomerang_2015_logo.svg.png",Boomerang HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="bbchdchi" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022_%28Alt_Light%29.svg/512px-BBC_News_2022_%28Alt_Light%29.svg.png",BBC News HD
+http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cartoonhdchi" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="bbchdchi" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022_%28Alt_Light%29.svg/512px-BBC_News_2022_%28Alt_Light%29.svg.png",BBC News HD
+http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disneyhdchi" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_Channel_logo_2014.svg/512px-Disney_Channel_logo_2014.svg.png",Disney Channel HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="laredhdchi" tvg-name="La Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/La_Red_logo_2021.svg/512px-La_Red_logo_2021.svg.png",La Red HD
 http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvnhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,tvnhdchi
-http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megahdchi
-http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,megahdchi
+#EXTINF:-1 tvg-id="teletrakhdchi" tvg-name="Teletrak TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Teletrak_TV_Logo.png",Teletrak TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espnhdchi" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN_logo.svg/512px-ESPN_logo.svg.png",ESPN HD
+http://tr.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="golfhdchi" tvg-name="Golf Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Golf_Channel_logo.svg/512px-Golf_Channel_logo.svg.png",Golf Channel HD
+http://tr.live.clarovtrcdn.vtrplay.com/golfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espn3hdchi" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ESPN3_logo.svg/512px-ESPN3_logo.svg.png",ESPN 3 HD
+http://tr.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tvniquiqchi" tvg-name="TVN Red Tarapacá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TVN_logo_2020.svg/512px-TVN_logo_2020.svg.png",TVN Red Tarapacá
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tvniquiqchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="tntsports3hdchi" tvg-name="TNT Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TNT_Sports_3_Chile_logo.png",TNT Sports 3 HD
+http://tr.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megahdchi" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mega_Chile_logo.svg/512px-Mega_Chile_logo.svg.png",Mega HD
 http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,infovtrhdchi
-http://tr.live.clarovtrcdn.vtrplay.com/infovtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,infovtrhdchi
+#EXTINF:-1 tvg-id="foxsports3hdchi" tvg-name="Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fox_Sports_3_logo.svg/512px-Fox_Sports_3_logo.svg.png",Fox Sports 3 HD
+http://tr.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ViaXESportshdchi" tvg-name="Vía X Esports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/V%C3%ADa_X_Esports_Logo.png",Vía X Esports HD
+http://tr.live.clarovtrcdn.vtrplay.com/ViaXESportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foxsportschilehdchi" tvg-name="TNT Sports Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/TNT_Sports_Chile_logo.png",TNT Sports Chile HD
+http://tr.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tntsports3hdchi" tvg-name="TNT Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TNT_Sports_3_Chile_logo.png",TNT Sports 3 HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="lovenaturehdchi" tvg-name="Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Love_Nature_logo_2022.svg/512px-Love_Nature_logo_2022.svg.png",Love Nature HD
+http://tr.live.clarovtrcdn.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foxsportschilehdchi" tvg-name="TNT Sports Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/TNT_Sports_Chile_logo.png",TNT Sports Chile HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espnhdchi" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN_logo.svg/512px-ESPN_logo.svg.png",ESPN HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disneyjrsdchi" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Disney_Junior_logo.svg/512px-Disney_Junior_logo.svg.png",Disney Junior
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/disneyjrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="beneficiosvtrhdchi" tvg-name="Beneficios VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Beneficios VTR HD
+http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disckidshdchi" tvg-name="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Discovery_Kids_logo_2021.svg/512px-Discovery_Kids_logo_2021.svg.png",Discovery Kids HD
+http://tr.live.clarovtrcdn.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tntserieshdchi" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TNT_Series_logo.svg/512px-TNT_Series_logo.svg.png",TNT Series HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disneyhdchi" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_Channel_logo_2014.svg/512px-Disney_Channel_logo_2014.svg.png",Disney Channel HD
+http://tr.live.clarovtrcdn.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="boomeranghdchi" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Boomerang_2015_logo.svg/512px-Boomerang_2015_logo.svg.png",Boomerang HD
+http://tr.live.clarovtrcdn.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dischhhdchi" tvg-name="Discovery Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_Home_%26_Health_logo.svg/512px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disctlchdchi" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TLC_logo_2014.svg/512px-TLC_logo_2014.svg.png",TLC HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="telecanalsdchi" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Telecanal_logo.svg/512px-Telecanal_logo.svg.png",Telecanal
+http://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="cartoonhdchi" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
+http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tarapacatvsdchi" tvg-name="Tarapacá TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Tarapac%C3%A1_Televisi%C3%B3n_Logo.png",Tarapacá TV
+http://tr.live.clarovtrcdn.vtrplay.com/tarapacatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="senpaitvhdchi" tvg-name="Senpai TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Senpai_TV_logo.png",Senpai TV HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="natgeohdchi" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_logo.svg/512px-National_Geographic_logo.svg.png",National Geographic HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disneyjrsdchi" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Disney_Junior_logo.svg/512px-Disney_Junior_logo.svg.png",Disney Junior
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="laredhdchi" tvg-name="La Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/La_Red_logo_2021.svg/512px-La_Red_logo_2021.svg.png",La Red HD
+http://tr.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tvniquiqchi" tvg-name="TVN Red Tarapacá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TVN_logo_2020.svg/512px-TVN_logo_2020.svg.png",TVN Red Tarapacá
+http://tr.live.clarovtrcdn.vtrplay.com/tvniquiqchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="elgourmethdchi" tvg-name="El Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/El_Gourmet_logo.png",El Gourmet HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megahdchi" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mega_Chile_logo.svg/512px-Mega_Chile_logo.svg.png",Mega HD
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tarapacatvsdchi" tvg-name="Tarapacá TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Tarapac%C3%A1_Televisi%C3%B3n_Logo.png",Tarapacá TV
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/tarapacatvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="ViaXESportshdchi" tvg-name="Vía X Esports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/V%C3%ADa_X_Esports_Logo.png",Vía X Esports HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ViaXESportshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="eentertainmenthdchi" tvg-name="E! Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/E%21_logo.svg/512px-E%21_logo.svg.png",E! Entertainment HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foxsportschilehdchi" tvg-name="TNT Sports Chile HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/TNT_Sports_Chile_logo.png",TNT Sports Chile HD
+http://tr.live.clarovtrcdn.vtrplay.com/foxsportschilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discidchi" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Investigation_Discovery_logo_2020.svg/512px-Investigation_Discovery_logo_2020.svg.png",Investigation Discovery HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="warnerhdchi" tvg-name="Warner TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",Warner TV HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tcmsdchi" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TCM_logo_2015.svg/512px-TCM_logo_2015.svg.png",TCM
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="megaficcionhdchi" tvg-name="Mega Ficción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mega_Ficci%C3%B3n_logo.png",Mega Ficción HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tntsports3hdchi" tvg-name="TNT Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TNT_Sports_3_Chile_logo.png",TNT Sports 3 HD
+http://tr.live.clarovtrcdn.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="filmandartshdchi" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Film_and_Arts_logo.png",Film & Arts HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="vivehdchi" tvg-name="Vive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Vive_TV_Chile_logo.png",Vive HD
+http://tr.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espnhdchi" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN_logo.svg/512px-ESPN_logo.svg.png",ESPN HD
+http://tr.live.clarovtrcdn.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tntserieshdchi" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TNT_Series_logo.svg/512px-TNT_Series_logo.svg.png",TNT Series HD
+http://tr.live.clarovtrcdn.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dreamworkshdchi" tvg-name="DreamWorks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DreamWorks_Channel_logo.svg/512px-DreamWorks_Channel_logo.svg.png",DreamWorks HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cinemaxhdchi" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cinemax_logo.svg/512px-Cinemax_logo.svg.png",Cinemax HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megaplushdchi" tvg-name="Mega Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Mega_Plus_logo.png",Mega Plus HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="spacehdchi" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Space_logo_2017.svg/512px-Space_logo_2017.svg.png",Space HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="a3serieshdchi" tvg-name="Atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Atreseries_logo.svg/512px-Atreseries_logo.svg.png",Atreseries HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="syfyhdchi" tvg-name="Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Syfy_2017_logo.svg/512px-Syfy_2017_logo.svg.png",Syfy HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dischhhdchi" tvg-name="Discovery Home & Health HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_Home_%26_Health_logo.svg/512px-Discovery_Home_%26_Health_logo.svg.png",Discovery Home & Health HD
+http://tr.live.clarovtrcdn.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disctlchdchi" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TLC_logo_2014.svg/512px-TLC_logo_2014.svg.png",TLC HD
+http://tr.live.clarovtrcdn.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="elgourmethdchi" tvg-name="El Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/El_Gourmet_logo.png",El Gourmet HD
+http://tr.live.clarovtrcdn.vtrplay.com/elgourmethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="telemundohdchi_claro" tvg-name="Telemundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Telemundo_logo.svg/512px-Telemundo_logo.svg.png",Telemundo HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="eentertainmenthdchi" tvg-name="E! Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/E%21_logo.svg/512px-E%21_logo.svg.png",E! Entertainment HD
+http://tr.live.clarovtrcdn.vtrplay.com/eentertainmenthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="studiouniversalhdchi" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Studio_Universal_logo.svg/512px-Studio_Universal_logo.svg.png",Studio Universal HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="natgeohdchi" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_logo.svg/512px-National_Geographic_logo.svg.png",National Geographic HD
+http://tr.live.clarovtrcdn.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbohdchi" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discidchi" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Investigation_Discovery_logo_2020.svg/512px-Investigation_Discovery_logo_2020.svg.png",Investigation Discovery HD
+http://tr.live.clarovtrcdn.vtrplay.com/discidchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="senpaitvhdchi" tvg-name="Senpai TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Senpai_TV_logo.png",Senpai TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="warnerhdchi" tvg-name="Warner TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",Warner TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="bbchdchi" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022_%28Alt_Light%29.svg/512px-BBC_News_2022_%28Alt_Light%29.svg.png",BBC News HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megaficcionhdchi" tvg-name="Mega Ficción HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mega_Ficci%C3%B3n_logo.png",Mega Ficción HD
+http://tr.live.clarovtrcdn.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cinecanalhdchi" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cinecanal_logo.svg/512px-Cinecanal_logo.svg.png",Cinecanal HD
+http://tr.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="viaxhdchi" tvg-name="Vía X HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/V%C3%ADa_X_2019.png",Vía X HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="megaplushdchi" tvg-name="Mega Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Mega_Plus_logo.png",Mega Plus HD
+http://tr.live.clarovtrcdn.vtrplay.com/megaplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tcmsdchi" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TCM_logo_2015.svg/512px-TCM_logo_2015.svg.png",TCM
+http://tr.live.clarovtrcdn.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="13chdchi" tvg-name="13C HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/13C_logo.svg/512px-13C_logo.svg.png",13C HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="a3serieshdchi" tvg-name="Atreseries HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Atreseries_logo.svg/512px-Atreseries_logo.svg.png",Atreseries HD
+http://tr.live.clarovtrcdn.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tnthdchi" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TNT_logo.svg/512px-TNT_logo.svg.png",TNT HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="zonalatinahdchi" tvg-name="Zona Latina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Zona_Latina_logo.png",Zona Latina HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cctv4chinasdchi" tvg-name="CCTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CCTV-4_Logo.svg/512px-CCTV-4_Logo.svg.png",CCTV 4
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/cctv4chinasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="starchannelhdchi" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Star_Channel_logo.svg/512px-Star_Channel_logo.svg.png",Star Channel HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="spacehdchi" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Space_logo_2017.svg/512px-Space_logo_2017.svg.png",Space HD
+http://tr.live.clarovtrcdn.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="amchdchi" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMC_logo.svg/512px-AMC_logo.svg.png",AMC HD
+http://tr.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cinemaxhdchi" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cinemax_logo.svg/512px-Cinemax_logo.svg.png",Cinemax HD
+http://tr.live.clarovtrcdn.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbohdchi" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="syfyhdchi" tvg-name="Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Syfy_2017_logo.svg/512px-Syfy_2017_logo.svg.png",Syfy HD
+http://tr.live.clarovtrcdn.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="filmandartshdchi" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Film_and_Arts_logo.png",Film & Arts HD
+http://tr.live.clarovtrcdn.vtrplay.com/filmandartshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dreamworkshdchi" tvg-name="DreamWorks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DreamWorks_Channel_logo.svg/512px-DreamWorks_Channel_logo.svg.png",DreamWorks HD
+http://tr.live.clarovtrcdn.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="animalplanethdchi" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png",Animal Planet HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="azcinemasdchi" tvg-name="AZ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AZ_Cinema_logo.png",AZ Cinema
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="universaltvhdchi" tvg-name="Universal TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Universal_TV_2018_logo.svg/512px-Universal_TV_2018_logo.svg.png",Universal TV HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="animalplanethdchi" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png",Animal Planet HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="azcinemasdchi" tvg-name="AZ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AZ_Cinema_logo.png",AZ Cinema
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="bbchdchi" tvg-name="BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2022_%28Alt_Light%29.svg/512px-BBC_News_2022_%28Alt_Light%29.svg.png",BBC News HD
+http://tr.live.clarovtrcdn.vtrplay.com/bbchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="studiouniversalhdchi" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Studio_Universal_logo.svg/512px-Studio_Universal_logo.svg.png",Studio Universal HD
+http://tr.live.clarovtrcdn.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cctv4chinasdchi" tvg-name="CCTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CCTV-4_Logo.svg/512px-CCTV-4_Logo.svg.png",CCTV 4
+http://tr.live.clarovtrcdn.vtrplay.com/cctv4chinasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="telemundohdchi_claro" tvg-name="Telemundo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Telemundo_logo.svg/512px-Telemundo_logo.svg.png",Telemundo HD
+http://tr.live.clarovtrcdn.vtrplay.com/telemundohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cnnespasdchi" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol_logo.svg/512px-CNN_en_Espa%C3%B1ol_logo.svg.png",CNN en Español
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cnnespasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="amchdchi" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AMC_logo.svg/512px-AMC_logo.svg.png",AMC HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ewtnsdchi" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/EWTN_logo.svg/512px-EWTN_logo.svg.png",EWTN
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/ewtnsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="tnesdchi" tvg-name="Enlace TNE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Enlace_TBN_logo.svg/512px-Enlace_TBN_logo.svg.png",Enlace TNE
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/tnesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="tvperusdchi" tvg-name="TV Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TV_Per%C3%BA_Logo.svg/512px-TV_Per%C3%BA_Logo.svg.png",TV Perú
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tvperusdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="senadotvsdchi" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TV_Senado_Chile_logo.svg/512px-TV_Senado_Chile_logo.svg.png",TV Senado
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/senadotvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="hbofamilyhdchi" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HBO_Family_logo.svg/512px-HBO_Family_logo.svg.png",HBO Family HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="iquiquetvsdchi" tvg-name="Iquique TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Iquique_Televisi%C3%B3n_Logo.png",Iquique TV
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/iquiquetvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="hbomundihdchi" tvg-name="HBO Mundi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HBO_Mundi_logo.svg/512px-HBO_Mundi_logo.svg.png",HBO Mundi HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="beneficiosvtrhdchi" tvg-name="Beneficios VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Beneficios VTR HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="13chdchi" tvg-name="13C HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/13C_logo.svg/512px-13C_logo.svg.png",13C HD
+http://tr.live.clarovtrcdn.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="universaltvhdchi" tvg-name="Universal TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Universal_TV_2018_logo.svg/512px-Universal_TV_2018_logo.svg.png",Universal TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="starchannelhdchi" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Star_Channel_logo.svg/512px-Star_Channel_logo.svg.png",Star Channel HD
+http://tr.live.clarovtrcdn.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="zonalatinahdchi" tvg-name="Zona Latina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Zona_Latina_logo.png",Zona Latina HD
+http://tr.live.clarovtrcdn.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tnthdchi" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/TNT_logo.svg/512px-TNT_logo.svg.png",TNT HD
+http://tr.live.clarovtrcdn.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="viaxhdchi" tvg-name="Vía X HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/V%C3%ADa_X_2019.png",Vía X HD
+http://tr.live.clarovtrcdn.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="diputadossdchi" tvg-name="Cámara de Diputados TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/C%C3%A1mara_de_Diputados_TV_Logo.png",Cámara de Diputados TV
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/diputadossdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="hbo2hdchi" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2 HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hboxtremehdchi" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/HBO_Xtreme_logo.svg/512px-HBO_Xtreme_logo.svg.png",HBO Xtreme HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="animalplanethdchi" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png",Animal Planet HD
+http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="azcinemasdchi" tvg-name="AZ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AZ_Cinema_logo.png",AZ Cinema
+http://tr.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="dischdchi" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Discovery_Channel_2019_logo.svg/512px-Discovery_Channel_2019_logo.svg.png",Discovery Channel HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="animalplanethdchi" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png",Animal Planet HD
+http://tr.live.clarovtrcdn.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dischdchi" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Discovery_Channel_2019_logo.svg/512px-Discovery_Channel_2019_logo.svg.png",Discovery Channel HD
+http://tr.live.clarovtrcdn.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="maschichdchi" tvg-name="Más Chic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Mas_Chic_logo.png",Más Chic HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="azcinemasdchi" tvg-name="AZ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/AZ_Cinema_logo.png",AZ Cinema
+http://tr.live.clarovtrcdn.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="cnnespasdchi" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol_logo.svg/512px-CNN_en_Espa%C3%B1ol_logo.svg.png",CNN en Español
+http://tr.live.clarovtrcdn.vtrplay.com/cnnespasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="foxsports3hdchi" tvg-name="Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fox_Sports_3_logo.svg/512px-Fox_Sports_3_logo.svg.png",Fox Sports 3 HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ntvhdchi" tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NTV_Chile_logo.svg/512px-NTV_Chile_logo.svg.png",NTV HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="cinecanalhdchi" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cinecanal_logo.svg/512px-Cinecanal_logo.svg.png",Cinecanal HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espn3hdchi" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ESPN3_logo.svg/512px-ESPN3_logo.svg.png",ESPN 3 HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="teletrakhdchi" tvg-name="Teletrak TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Teletrak_TV_Logo.png",Teletrak TV HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discscihdchi" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Discovery_Science_logo_2017.svg/512px-Discovery_Science_logo_2017.svg.png",Discovery Science HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="disccivilsdchi" tvg-name="Discovery Civilization" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Discovery_Civilization_logo.png",Discovery Civilization
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/disccivilsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="senadotvsdchi" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TV_Senado_Chile_logo.svg/512px-TV_Senado_Chile_logo.svg.png",TV Senado
+http://tr.live.clarovtrcdn.vtrplay.com/senadotvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="tnesdchi" tvg-name="Enlace TNE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Enlace_TBN_logo.svg/512px-Enlace_TBN_logo.svg.png",Enlace TNE
+http://tr.live.clarovtrcdn.vtrplay.com/tnesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="ewtnsdchi" tvg-name="EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/EWTN_logo.svg/512px-EWTN_logo.svg.png",EWTN
+http://tr.live.clarovtrcdn.vtrplay.com/ewtnsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="hbofamilyhdchi" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HBO_Family_logo.svg/512px-HBO_Family_logo.svg.png",HBO Family HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tvperusdchi" tvg-name="TV Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TV_Per%C3%BA_Logo.svg/512px-TV_Per%C3%BA_Logo.svg.png",TV Perú
+http://tr.live.clarovtrcdn.vtrplay.com/tvperusdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="diputadossdchi" tvg-name="Cámara de Diputados TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/C%C3%A1mara_de_Diputados_TV_Logo.png",Cámara de Diputados TV
+http://tr.live.clarovtrcdn.vtrplay.com/diputadossdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="beneficiosvtrhdchi" tvg-name="Beneficios VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Beneficios VTR HD
+http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hboplushdchi" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/HBO_Plus_logo.svg/512px-HBO_Plus_logo.svg.png",HBO Plus HD
+http://tr.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbosignaturehdchi" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HBO_Signature_logo.svg/512px-HBO_Signature_logo.svg.png",HBO Signature HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbo2hdchi" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2 HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbomundihdchi" tvg-name="HBO Mundi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/HBO_Mundi_logo.svg/512px-HBO_Mundi_logo.svg.png",HBO Mundi HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="vivehdchi" tvg-name="Vive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Vive_TV_Chile_logo.png",Vive HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discoveryturbosdchi" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png",Discovery Turbo
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="hbosignaturehdchi" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HBO_Signature_logo.svg/512px-HBO_Signature_logo.svg.png",HBO Signature HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="fxhdchi" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FX_logo.svg/512px-FX_logo.svg.png",FX HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="trutvhdchi" tvg-name="TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TruTV_Logo_2020.svg/512px-TruTV_Logo_2020.svg.png",TruTV HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="iquiquetvsdchi" tvg-name="Iquique TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Iquique_Televisi%C3%B3n_Logo.png",Iquique TV
+http://tr.live.clarovtrcdn.vtrplay.com/iquiquetvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="hboxtremehdchi" tvg-name="HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/HBO_Xtreme_logo.svg/512px-HBO_Xtreme_logo.svg.png",HBO Xtreme HD
+http://tr.live.clarovtrcdn.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tbshdchi" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TBS_logo_2015.svg/512px-TBS_logo_2015.svg.png",TBS HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="rechdchi" tvg-name="REC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/REC_TV_logo.svg/512px-REC_TV_logo.svg.png",REC TV HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbopophdchi" tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/HBO_Pop_logo.svg/512px-HBO_Pop_logo.svg.png",HBO Pop HD
+http://tr.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="maschichdchi" tvg-name="Más Chic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Mas_Chic_logo.png",Más Chic HD
+http://tr.live.clarovtrcdn.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="babytvsdchi" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BabyTV_logo.svg/512px-BabyTV_logo.svg.png",Baby TV
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="etctvhdchi" tvg-name="ETC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Etc_TV_logo.svg/512px-Etc_TV_logo.svg.png",ETC TV HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="ntvhdchi" tvg-name="NTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NTV_Chile_logo.svg/512px-NTV_Chile_logo.svg.png",NTV HD
+http://tr.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foxsports3hdchi" tvg-name="Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fox_Sports_3_logo.svg/512px-Fox_Sports_3_logo.svg.png",Fox Sports 3 HD
+http://tr.live.clarovtrcdn.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="teletrakhdchi" tvg-name="Teletrak TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Teletrak_TV_Logo.png",Teletrak TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/teletrakhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="foodnetworkhdchi" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Food_Network_logo_2016.svg/512px-Food_Network_logo.svg.png",Food Network HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="dwsdchi" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DW_logo.svg/512px-DW_logo.svg.png",DW Español
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/dwsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="cnnintsdchi" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png",CNN International
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/cnnintsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="tv5francesdchi" tvg-name="TV5Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TV5MONDE_logo.svg/512px-TV5MONDE_logo.svg.png",TV5Monde
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/tv5francesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="htvsdchi" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/HTV_Logo.png",HTV
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/htvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="raisdchi" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rai_Italia_logo.svg/512px-Rai_Italia_logo.svg.png",Rai Italia
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/raisdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="disccivilsdchi" tvg-name="Discovery Civilization" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Discovery_Civilization_logo.png",Discovery Civilization
+http://tr.live.clarovtrcdn.vtrplay.com/disccivilsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="discscihdchi" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Discovery_Science_logo_2017.svg/512px-Discovery_Science_logo_2017.svg.png",Discovery Science HD
+http://tr.live.clarovtrcdn.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="a3cinehdchi" tvg-name="Atrescine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Atrescine_Logo.png",Atrescine HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hbopophdchi" tvg-name="HBO Pop HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/HBO_Pop_logo.svg/512px-HBO_Pop_logo.svg.png",HBO Pop HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="artvhdchi" tvg-name="ARTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Artv_logo.png",ARTV HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="biobiohdchi_claro" tvg-name="Bío Bío TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BioBioChile_logo.svg/512px-BioBioChile_logo.svg.png",Bío Bío TV HD
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="espn3hdchi" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/ESPN3_logo.svg/512px-ESPN3_logo.svg.png",ESPN 3 HD
+http://tr.live.clarovtrcdn.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="discoveryturbosdchi" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png",Discovery Turbo
+http://tr.live.clarovtrcdn.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="trutvhdchi" tvg-name="TruTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TruTV_Logo_2020.svg/512px-TruTV_Logo_2020.svg.png",TruTV HD
+http://tr.live.clarovtrcdn.vtrplay.com/trutvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="hboplushdchi" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/HBO_Plus_logo.svg/512px-HBO_Plus_logo.svg.png",HBO Plus HD
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="fxhdchi" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FX_logo.svg/512px-FX_logo.svg.png",FX HD
+http://tr.live.clarovtrcdn.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="playpremchi" tvg-name="Play FM Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Play_FM_logo.png",Play FM Premium
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/playpremchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="romanticaanglochi" tvg-name="Romántica Anglo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rom%C3%A1ntica_FM_logo.png",Romántica Anglo
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/romanticaanglochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="tbshdchi" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TBS_logo_2015.svg/512px-TBS_logo_2015.svg.png",TBS HD
+http://tr.live.clarovtrcdn.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="popchi" tvg-name="Pop" tvg-logo="https://ui-avatars.com/api/?name=M%C3%BAsica+Pop&background=random&color=fff",Pop
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/popchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="rechdchi" tvg-name="REC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/REC_TV_logo.svg/512px-REC_TV_logo.svg.png",REC TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/rechdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="etctvhdchi" tvg-name="ETC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Etc_TV_logo.svg/512px-Etc_TV_logo.svg.png",ETC TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="artvhdchi" tvg-name="ARTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Artv_logo.png",ARTV HD
+http://tr.live.clarovtrcdn.vtrplay.com/artvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="rockchi" tvg-name="Rock" tvg-logo="https://ui-avatars.com/api/?name=M%C3%BAsica+Rock&background=random&color=fff",Rock
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/rockchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="babytvsdchi" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BabyTV_logo.svg/512px-BabyTV_logo.svg.png",Baby TV
+http://tr.live.clarovtrcdn.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="oldieschi" tvg-name="Oldies" tvg-logo="https://ui-avatars.com/api/?name=Oldies&background=random&color=fff",Oldies
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/oldieschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="foodnetworkhdchi" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Food_Network_logo_2016.svg/512px-Food_Network_logo_2016.svg.png",Food Network HD
+http://tr.live.clarovtrcdn.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="romanticalatchi" tvg-name="Romántica Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rom%C3%A1ntica_FM_logo.png",Romántica Latina
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/romanticalatchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="cnnintsdchi" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png",CNN International
+http://tr.live.clarovtrcdn.vtrplay.com/cnnintsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="danceelectchi" tvg-name="Dance / Electrónica" tvg-logo="https://ui-avatars.com/api/?name=Dance&background=random&color=fff",Dance / Electrónica
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/danceelectchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="a3cinehdchi" tvg-name="Atrescine HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Atrescine_Logo.png",Atrescine HD
+http://tr.live.clarovtrcdn.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tv5francesdchi" tvg-name="TV5Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TV5MONDE_logo.svg/512px-TV5MONDE_logo.svg.png",TV5Monde
+http://tr.live.clarovtrcdn.vtrplay.com/tv5francesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="alternativachi" tvg-name="Alternativa" tvg-logo="https://ui-avatars.com/api/?name=Alternativa&background=random&color=fff",Alternativa
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/alternativachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="loungechi" tvg-name="Lounge" tvg-logo="https://ui-avatars.com/api/?name=Lounge&background=random&color=fff",Lounge
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/loungechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="fistatropchi" tvg-name="Fiesta Tropical" tvg-logo="https://ui-avatars.com/api/?name=Tropical&background=random&color=fff",Fiesta Tropical
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/fistatropchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="htvsdchi" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/HTV_Logo.png",HTV
+http://tr.live.clarovtrcdn.vtrplay.com/htvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="dwsdchi" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DW_logo.svg/512px-DW_logo.svg.png",DW Español
+http://tr.live.clarovtrcdn.vtrplay.com/dwsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="biobiohdchi_claro" tvg-name="Bío Bío TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BioBioChile_logo.svg/512px-BioBioChile_logo.svg.png",Bío Bío TV HD
+http://tr.live.clarovtrcdn.vtrplay.com/biobiohdchi_claro/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="raisdchi" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rai_Italia_logo.svg/512px-Rai_Italia_logo.svg.png",Rai Italia
+http://tr.live.clarovtrcdn.vtrplay.com/raisdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="playpremchi" tvg-name="Play FM Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Play_FM_logo.png",Play FM Premium
+http://tr.live.clarovtrcdn.vtrplay.com/playpremchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="operachi" tvg-name="Ópera" tvg-logo="https://ui-avatars.com/api/?name=Opera&background=random&color=fff",Ópera
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/operachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="romanticaanglochi" tvg-name="Romántica Anglo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rom%C3%A1ntica_FM_logo.png",Romántica Anglo
+http://tr.live.clarovtrcdn.vtrplay.com/romanticaanglochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="pianochi" tvg-name="Piano" tvg-logo="https://ui-avatars.com/api/?name=Piano&background=random&color=fff",Piano
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/pianochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="rockchi" tvg-name="Rock" tvg-logo="https://ui-avatars.com/api/?name=M%C3%BAsica+Rock&background=random&color=fff",Rock
+http://tr.live.clarovtrcdn.vtrplay.com/rockchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="popchi" tvg-name="Pop" tvg-logo="https://ui-avatars.com/api/?name=M%C3%BAsica+Pop&background=random&color=fff",Pop
+http://tr.live.clarovtrcdn.vtrplay.com/popchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="jazzchi" tvg-name="Jazz" tvg-logo="https://ui-avatars.com/api/?name=Jazz&background=random&color=fff",Jazz
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/jazzchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="oldieschi" tvg-name="Oldies" tvg-logo="https://ui-avatars.com/api/?name=Oldies&background=random&color=fff",Oldies
+http://tr.live.clarovtrcdn.vtrplay.com/oldieschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="raggeatonchi" tvg-name="Reggaetón" tvg-logo="https://ui-avatars.com/api/?name=Reggaeton&background=random&color=fff",Reggaetón
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/raggeatonchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="newagechi" tvg-name="New Age" tvg-logo="https://ui-avatars.com/api/?name=New+Age&background=random&color=fff",New Age
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/newagechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="chilenacontemchi" tvg-name="Chilena Contemporánea" tvg-logo="https://ui-avatars.com/api/?name=Chilena&background=random&color=fff",Chilena Contemporánea
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/chilenacontemchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="romanticalatchi" tvg-name="Romántica Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rom%C3%A1ntica_FM_logo.png",Romántica Latina
+http://tr.live.clarovtrcdn.vtrplay.com/romanticalatchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="80schi" tvg-name="80s" tvg-logo="https://ui-avatars.com/api/?name=80s&background=random&color=fff",80s
+http://tr.live.clarovtrcdn.vtrplay.com/80schi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="80schi" tvg-name="80s" tvg-logo="https://ui-avatars.com/api/?name=80s&background=random&color=fff",80s
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/80schi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radiobeethovenchi" tvg-name="Radio Beethoven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Radio_Beethoven_Logo.png",Radio Beethoven
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radiobeethovenchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="alternativachi" tvg-name="Alternativa" tvg-logo="https://ui-avatars.com/api/?name=Alternativa&background=random&color=fff",Alternativa
+http://tr.live.clarovtrcdn.vtrplay.com/alternativachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="fistatropchi" tvg-name="Fiesta Tropical" tvg-logo="https://ui-avatars.com/api/?name=Tropical&background=random&color=fff",Fiesta Tropical
+http://tr.live.clarovtrcdn.vtrplay.com/fistatropchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="danceelectchi" tvg-name="Dance / Electrónica" tvg-logo="https://ui-avatars.com/api/?name=Dance&background=random&color=fff",Dance / Electrónica
+http://tr.live.clarovtrcdn.vtrplay.com/danceelectchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="loungechi" tvg-name="Lounge" tvg-logo="https://ui-avatars.com/api/?name=Lounge&background=random&color=fff",Lounge
+http://tr.live.clarovtrcdn.vtrplay.com/loungechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="operachi" tvg-name="Ópera" tvg-logo="https://ui-avatars.com/api/?name=Opera&background=random&color=fff",Ópera
+http://tr.live.clarovtrcdn.vtrplay.com/operachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="40principaleschi" tvg-name="Los 40 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Los_40_logo.svg/512px-Los_40_logo.svg.png",Los 40 Chile
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/40principaleschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="oasischi" tvg-name="Radio Oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Radio_Oasis_Chile_logo.png",Radio Oasis
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/oasischi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="imaginachi" tvg-name="Radio Imagina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Radio_Imagina_logo.png",Radio Imagina
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/imaginachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="pianochi" tvg-name="Piano" tvg-logo="https://ui-avatars.com/api/?name=Piano&background=random&color=fff",Piano
+http://tr.live.clarovtrcdn.vtrplay.com/pianochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="fmdoschi" tvg-name="FMDOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/FMDOS_logo.png",FMDOS
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/fmdoschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="jazzchi" tvg-name="Jazz" tvg-logo="https://ui-avatars.com/api/?name=Jazz&background=random&color=fff",Jazz
+http://tr.live.clarovtrcdn.vtrplay.com/jazzchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="candelachi" tvg-name="Radio Candela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Radio_Candela_logo.png",Radio Candela
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/candelachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="newagechi" tvg-name="New Age" tvg-logo="https://ui-avatars.com/api/?name=New+Age&background=random&color=fff",New Age
+http://tr.live.clarovtrcdn.vtrplay.com/newagechi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="futurochi" tvg-name="Radio Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Radio_Futuro_logo.svg/512px-Radio_Futuro_logo.svg.png",Radio Futuro
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/futurochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="playfmchi" tvg-name="Play FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Play_FM_logo.png",Play FM
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/playfmchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="chilenacontemchi" tvg-name="Chilena Contemporánea" tvg-logo="https://ui-avatars.com/api/?name=Chilena&background=random&color=fff",Chilena Contemporánea
+http://tr.live.clarovtrcdn.vtrplay.com/chilenacontemchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="raggeatonchi" tvg-name="Reggaetón" tvg-logo="https://ui-avatars.com/api/?name=Reggaeton&background=random&color=fff",Reggaetón
+http://tr.live.clarovtrcdn.vtrplay.com/raggeatonchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="conciertochi" tvg-name="Radio Concierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Radio_Concierto_logo.png",Radio Concierto
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/conciertochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioactivachi" tvg-name="Radio Activa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Radioactiva_logo.svg/512px-Radioactiva_logo.svg.png",Radio Activa
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radioactivachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="rocknpopchi" tvg-name="Rock & Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Rock_y_Pop_Chile_logo_2018.png",Rock & Pop
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/rocknpopchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioinfinitachi" tvg-name="Radio Infinita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Radio_Infinita_logo.svg/512px-Radio_Infinita_logo.svg.png",Radio Infinita
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radiobeethovenchi" tvg-name="Radio Beethoven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Radio_Beethoven_Logo.png",Radio Beethoven
+http://tr.live.clarovtrcdn.vtrplay.com/radiobeethovenchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="imaginachi" tvg-name="Radio Imagina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Radio_Imagina_logo.png",Radio Imagina
+http://tr.live.clarovtrcdn.vtrplay.com/imaginachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="40principaleschi" tvg-name="Los 40 Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Los_40_logo.svg/512px-Los_40_logo.svg.png",Los 40 Chile
+http://tr.live.clarovtrcdn.vtrplay.com/40principaleschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="oasischi" tvg-name="Radio Oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Radio_Oasis_Chile_logo.png",Radio Oasis
+http://tr.live.clarovtrcdn.vtrplay.com/oasischi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioinfinitachi" tvg-name="Radio Infinita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Radio_Infinita_logo.svg/512px-Radio_Infinita_logo.svg.png",Radio Infinita
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="fmdoschi" tvg-name="FMDOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/FMDOS_logo.png",FMDOS
+http://tr.live.clarovtrcdn.vtrplay.com/fmdoschi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="futurochi" tvg-name="Radio Futuro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Radio_Futuro_logo.svg/512px-Radio_Futuro_logo.svg.png",Radio Futuro
+http://tr.live.clarovtrcdn.vtrplay.com/futurochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="playfmchi" tvg-name="Play FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Play_FM_logo.png",Play FM
+http://tr.live.clarovtrcdn.vtrplay.com/playfmchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="candelachi" tvg-name="Radio Candela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Radio_Candela_logo.png",Radio Candela
+http://tr.live.clarovtrcdn.vtrplay.com/candelachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="conciertochi" tvg-name="Radio Concierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Radio_Concierto_logo.png",Radio Concierto
+http://tr.live.clarovtrcdn.vtrplay.com/conciertochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioactivachi" tvg-name="Radio Activa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Radioactiva_logo.svg/512px-Radioactiva_logo.svg.png",Radio Activa
+http://tr.live.clarovtrcdn.vtrplay.com/radioactivachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioromanticachi" tvg-name="Radio Romántica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rom%C3%A1ntica_FM_logo.png",Radio Romántica
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/radioromanticachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioadnchi" tvg-name="Radio ADN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ADN_Radio_Chile_logo.svg/512px-ADN_Radio_Chile_logo.svg.png",Radio ADN
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/radioadnchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radiodunachi" tvg-name="Radio Duna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Radio_Duna_logo.svg/512px-Radio_Duna_logo.svg.png",Radio Duna
+http://ats-edge-lcon-4.live.clarovtrcdn.vtrplay.com/radiodunachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="rocknpopchi" tvg-name="Rock & Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Rock_y_Pop_Chile_logo_2018.png",Rock & Pop
+http://tr.live.clarovtrcdn.vtrplay.com/rocknpopchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radiosonarchi" tvg-name="Sonar FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sonar_FM_logo.svg/512px-Sonar_FM_logo.svg.png",Sonar FM
+http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/radiosonarchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioinfinitachi" tvg-name="Radio Infinita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Radio_Infinita_logo.svg/512px-Radio_Infinita_logo.svg.png",Radio Infinita
+http://tr.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="beneficiosvtrhdchi" tvg-name="Beneficios VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Beneficios VTR HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="laredhdchi" tvg-name="La Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/La_Red_logo_2021.svg/512px-La_Red_logo_2021.svg.png",La Red HD
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="radioiniciachi" tvg-name="Radio Inicia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Radio Inicia
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/radioiniciachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="tele13radiochi" tvg-name="Tele13 Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tele13_Radio_logo.svg/512px-Tele13_Radio_logo.svg.png",Tele13 Radio
+http://ats-edge-lcon-1.live.clarovtrcdn.vtrplay.com/tele13radiochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="megahdchi" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mega_Chile_logo.svg/512px-Mega_Chile_logo.svg.png",Mega HD
+http://ats-edge-lcon-3.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="radioinfinitachi" tvg-name="Radio Infinita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Radio_Infinita_logo.svg/512px-Radio_Infinita_logo.svg.png",Radio Infinita
+http://tr.live.clarovtrcdn.vtrplay.com/radioinfinitachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="infovtrhdchi" tvg-name="Info VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Info VTR HD
 http://ats-edge-lcon-2.live.clarovtrcdn.vtrplay.com/infovtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="radioromanticachi" tvg-name="Radio Romántica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Rom%C3%A1ntica_FM_logo.png",Radio Romántica
+http://tr.live.clarovtrcdn.vtrplay.com/radioromanticachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioadnchi" tvg-name="Radio ADN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ADN_Radio_Chile_logo.svg/512px-ADN_Radio_Chile_logo.svg.png",Radio ADN
+http://tr.live.clarovtrcdn.vtrplay.com/radioadnchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radiosonarchi" tvg-name="Sonar FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sonar_FM_logo.svg/512px-Sonar_FM_logo.svg.png",Sonar FM
+http://tr.live.clarovtrcdn.vtrplay.com/radiosonarchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="radioiniciachi" tvg-name="Radio Inicia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Radio Inicia
+http://tr.live.clarovtrcdn.vtrplay.com/radioiniciachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="laredhdchi" tvg-name="La Red HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/La_Red_logo_2021.svg/512px-La_Red_logo_2021.svg.png",La Red HD
+http://tr.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="tele13radiochi" tvg-name="Tele13 Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tele13_Radio_logo.svg/512px-Tele13_Radio_logo.svg.png",Tele13 Radio
+http://tr.live.clarovtrcdn.vtrplay.com/tele13radiochi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="megahdchi" tvg-name="Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mega_Chile_logo.svg/512px-Mega_Chile_logo.svg.png",Mega HD
+http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="beneficiosvtrhdchi" tvg-name="Beneficios VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Beneficios VTR HD
+http://tr.live.clarovtrcdn.vtrplay.com/beneficiosvtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="radiodunachi" tvg-name="Radio Duna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Radio_Duna_logo.svg/512px-Radio_Duna_logo.svg.png",Radio Duna
+http://tr.live.clarovtrcdn.vtrplay.com/radiodunachi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+#EXTINF:-1 tvg-id="infovtrhdchi" tvg-name="Info VTR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VTR_logo.svg/512px-VTR_logo.svg.png",Info VTR HD
+http://tr.live.clarovtrcdn.vtrplay.com/infovtrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
